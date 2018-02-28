@@ -1,10 +1,10 @@
 {
   "app": {
-    "js": "/assets/app-285dfc009078a8b80020.js",
-    "css": "/assets/app-285dfc009078a8b80020.css"
+    "js": "/assets/app-582564cb48b9601d4f1b.js",
+    "css": "/assets/app-582564cb48b9601d4f1b.css"
   },
   "common": {
-    "js": "/assets/common-285dfc009078a8b80020.js"
+    "js": "/assets/common-582564cb48b9601d4f1b.js"
   },
   "metadata": {
     "version": "0.9.47"
